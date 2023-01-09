@@ -3,11 +3,12 @@
 </p>
 
 # Shamanic BackDoor
-Minimal, yet capable Windows Backdoor utilizing<br>Telegram for command communication. <br>
-Designed for a more stealthy & resilient foothold<br>
+Resilient, Stealthy & capable Windows Backdoor.<br>
+Utilizing Telegram for command relays, allowing on the go operations.<br><br>
+Designed for a more stealthy & concrete foothold<br>
 during red-team engagements.<br>
-Agents should form a `Hive` allowing both singular and <br>
-mass command tastings to all the connected agents.
+Agents gather in a `Hive` allowing both targeted and <br>
+mass command taskings to all the connected agents.
 
 # Required
 Enter your:
@@ -15,4 +16,4 @@ Enter your:
 - telegram botids 
 - telegram bottokens
 
-in <b>package/util/constants.go </b>
+in <b>package/util/constants.go</b>
