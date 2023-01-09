@@ -1,5 +1,5 @@
 <p align="center">
-	<img align="center" src="https://raw.githubusercontent.com/whiterabb17/Shaman/main/resources/Shaman.png">
+	<img align="center" src="https://github.com/whiterabb17/Shamanic/blob/main/resources/Shaman.png">
 </p>
 
 # Shamanic BackDoor
