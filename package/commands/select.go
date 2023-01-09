@@ -34,8 +34,6 @@ const (
 	unknown = "[<b>!</b>] Unknown Command"
 )
 
-// command => sockets event | args => arguments supplied for commands
-// argCount => the amounnt of arguments being parsed | tag => Client to run
 func Dispatcher(command string, args []string, argCount int, tag string) error {
 	var argStr string
 	for _, a := range args {
@@ -109,19 +107,6 @@ func ManagerSwitch(command string) {
 	case "dl":
 		Download(vars[0])
 	}
-	/*
-		case "soft":
-			Software()
-		case "sh":
-			var scmd string
-			for _, s := range vars {
-				scmd = s + " "
-			}
-			if util.Dbg {
-				log.Println("Command: " + scmd)
-			}
-			Shell(scmd)
-	*/
 }
 
 /*
