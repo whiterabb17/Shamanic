@@ -12,11 +12,11 @@ import (
 const (
 	Soul = "CharacterizationString"
 
-	RFoxID      = 1775137331
-	BotToken    = "1775137331:AAEYU3WNB8nAlWDiXYUFZZUjWewk1UL2Z70"
-	ListID      = 1358815035
-	ListToken   = "1358815035:AAHgOGjbqf9T-ZtUs_EVNZJPJ_EaQQSy4OA"
-	ChatID      = 1251925082
+	RFoxID      = DispatchBotId
+	BotToken    = "DispatchBot:Token"
+	ListID      = LibraryBotId
+	ListToken   = "LibraryBot:Token"
+	ChatID      = OperatorChatId
 	GenesisText = "Necromancer"
 	Interval    = 5
 
