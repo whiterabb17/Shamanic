@@ -23,6 +23,12 @@ in <b>package/util/constants.go</b>
 A `Library` channel which will hold client Identifiers and Heartbeats (online status)<br>
 A `Dispatch` channel which will send and recieve commands and responses respectively
 
+# Demo
+
+<p align="center">
+	<img align="center" style="height: 30%;width:30%;" src="https://github.com/whiterabb17/Shamanic/blob/main/resources/Shaman%20Demo.gif">
+</p>
+
 ## Commands & Functions
 	Base Commands & Functions
 	===========================

