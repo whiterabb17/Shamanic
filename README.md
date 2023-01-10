@@ -5,10 +5,8 @@
 # Shamanic BackDoor
 Resilient, Stealthy & capable Windows Backdoor.<br>
 Utilizing Telegram for command relays, allowing on the go operations.<br><br>
-Designed for a more stealthy & concrete foothold<br>
-during red-team engagements.<br>
-Agents gather in a `Hive` allowing both targeted and <br>
-mass command taskings to all the connected agents.
+Designed for a more stealthy & concrete foothold during red-team engagements.<br>
+Agents gather in a `Hive` allowing both targeted and mass command taskings to all the connected agents.
 
 # Required
 Enter your:
