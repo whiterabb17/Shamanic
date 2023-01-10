@@ -2,7 +2,7 @@
 	<img align="center" style="height: 30%;width:30%;" src="https://github.com/whiterabb17/Shamanic/blob/main/resources/Shaman.png">
 </p>
 
-# Shamanic BackDoor
+# Shamanic BackDoor (Manager code only* Agents will be uploaded soon)
 Resilient, Stealthy & capable Windows Backdoor.<br>
 Utilizing Telegram for command relays, allowing on the go operations.<br><br>
 Designed for a more stealthy & concrete foothold<br>
