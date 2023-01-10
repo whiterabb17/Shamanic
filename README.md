@@ -2,7 +2,7 @@
 	<img align="center" style="height: 30%;width:30%;" src="https://github.com/whiterabb17/Shamanic/blob/main/resources/Shaman.png">
 </p>
 
-# Shamanic BackDoor (Manager code only* Agents will be uploaded soon)
+# Shamanic BackDoor
 Resilient, Stealthy & capable Windows Backdoor.<br>
 Utilizing Telegram for command relays, allowing on the go operations.<br><br>
 Designed for a more stealthy & concrete foothold<br>
@@ -17,6 +17,11 @@ Enter your:
 - telegram bottokens
 
 in <b>package/util/constants.go</b>
+
+# Notice
+2 Bot channels required.<br>
+A `Library` channel which will hold client Identifiers and Heartbeats (online status)<br>
+A `Dispatch` channel which will send and recieve commands and responses respectively
 
 ## Commands & Functions
 	Base Commands & Functions
