@@ -17,6 +17,7 @@ type Spell struct {
 	Val string `json:"val"`
 }
 type Dispatch struct {
+	Cmd    string `json:"cmd"`
 	Args   string `json:"arg"`
 	ArgCnt string `json:"cnt"`
 	Tag    string `json:"tag"`

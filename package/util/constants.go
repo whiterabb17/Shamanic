@@ -2,11 +2,8 @@ package util
 
 import (
 	"encoding/base64"
-	"io/ioutil"
 	"log"
 	"os"
-	"strconv"
-	"strings"
 	"time"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
@@ -15,11 +12,11 @@ import (
 const (
 	Soul = "CharacterizationString"
 
-	RFoxID      = TelegramBotID
-	BotToken    = "TelegramBot:Token"
-	ListID      = TelegramBotID2
-	ListToken   = "TelegramBot:Token2"
-	ChatID      = TelegramUserID
+	RFoxID      = 1775137331
+	BotToken    = "1775137331:AAEYU3WNB8nAlWDiXYUFZZUjWewk1UL2Z70"
+	ListID      = 1358815035
+	ListToken   = "1358815035:AAHgOGjbqf9T-ZtUs_EVNZJPJ_EaQQSy4OA"
+	ChatID      = 1251925082
 	GenesisText = "Necromancer"
 	Interval    = 5
 
@@ -43,7 +40,7 @@ var (
 	C1        bool   = false
 	C3        bool   = false
 	Dem       bool   = false
-	Dbg       bool   = false
+	Dbg       bool   = true
 	Spirit    bool   = false
 	ID        string = "Shaman"
 	Mycellium string = "SecretAccessKey"

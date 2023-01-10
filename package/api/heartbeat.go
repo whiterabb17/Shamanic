@@ -69,7 +69,7 @@ func Heartbeat() {
 	status := tgbotapi.NewEditMessageText(util.ChatID, Genesis, "")
 	status.ParseMode = "MarkdownV2"
 	beat := beatConfig{
-		header: "\t\t		__SHAMANS BACKDOOR__ \t\t\n **BOT LIST**",
+		header: "\t\t		__SHAMANS BACKDOOR__ \t\t\n **Identifier " + util.ID + "**",
 	}
 	for {
 		select {
