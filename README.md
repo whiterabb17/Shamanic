@@ -12,6 +12,10 @@ Can be compiled for *Nix or Mac, as it's supported by the gryphon framework<br>
 though this will require some manual tweaking to be done by the <b>user</b><br>
 as Shaman uses certain windows api calls for antivm and some other stuff<br>
 
+# NOTICE
+To prevent misuse of more field ready builds by scriptkiddies
+the obfuscated build will not compile without some manual tweaking by the user
+
 # Required
 Enter your:
 - telegram userid 
@@ -20,7 +24,7 @@ Enter your:
 
 in <b>package/util/constants.go</b>
 
-# Notice
+# Operation Requirements
 2 Bot channels required.<br>
 A `Library` channel which will hold client Identifiers and Heartbeats (online status)<br>
 A `Dispatch` channel which will send and recieve commands and responses respectively
