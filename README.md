@@ -18,7 +18,8 @@ the obfuscated build will not compile without some manual tweaking by the user
 
 # Latest scan of Obfuscated Build
 <p align="center">
-	<img align="center" src="https://antiscan.me/images/result/wKiQxZeWFduv.png">
+	<img align="center" style="height:60%;width:30%" src="https://antiscan.me/images/result/wKiQxZeWFduv.png">
+	<img align="center" style="height:60%;width:30%" src="https://github.com/whiterabb17/Shamanic/blob/main/resources/vt.png">
 </p>
 
 # Required
