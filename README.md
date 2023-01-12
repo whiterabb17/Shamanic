@@ -16,6 +16,11 @@ as Shaman uses certain windows api calls for antivm and some other stuff<br>
 To prevent misuse of more field ready builds by scriptkiddies
 the obfuscated build will not compile without some manual tweaking by the user
 
+# Latest scan of Obfuscated Build
+<p align="center">
+	<img align="center" src="https://antiscan.me/images/result/wKiQxZeWFduv.png">
+</p>
+
 # Required
 Enter your:
 - telegram userid 
