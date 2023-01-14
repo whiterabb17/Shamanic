@@ -3,9 +3,13 @@
 </p>
 
 # Shamanic BackDoor
-〢public release ✅
-〢private release contains far more features, communication protocols and pivot/spread and recovery features
-Resilient, Stealthy & capable Windows Backdoor.<br>
+〢public release ✅ <br>
+〢private release contains far more features such as:
+-  additional communication protocols 
+- pivot/spread features
+- recovery features
+
+Shaman is a Resilient, Stealthy & capable Windows Backdoor.<br>
 Utilizing Telegram for command relays, allowing on the go operations.<br><br>
 Designed for a more stealthy & concrete foothold during red-team engagements.<br>
 Agents gather in a `Hive` allowing both targeted and mass command taskings to all the connected agents.
