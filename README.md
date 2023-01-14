@@ -3,6 +3,8 @@
 </p>
 
 # Shamanic BackDoor
+〢public release ✅
+〢private release contains far more features, communication protocols and pivot/spread and recovery features
 Resilient, Stealthy & capable Windows Backdoor.<br>
 Utilizing Telegram for command relays, allowing on the go operations.<br><br>
 Designed for a more stealthy & concrete foothold during red-team engagements.<br>
